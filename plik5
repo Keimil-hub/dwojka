@@ -1,0 +1,4 @@
+float Oblicz(float (*Wskaznik)(float),float a)
+{
+	return Wskaznik(a);
+}
