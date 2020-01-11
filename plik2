@@ -1,4 +1,4 @@
-float pierwiastek(float a)
+float Pierwiastek(float a)
 {
 	a = sqrt(a);
 	printf("\nPierwiastek: %f",a);
