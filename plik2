@@ -4,3 +4,4 @@ float Pierwiastek(float a)
 	printf("\nPierwiastek: %f",a);
 	return a;
 }
+1
